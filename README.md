@@ -64,7 +64,7 @@ Our project utilizes the following technologies:
 - Python
 - Pandas
 - Scikit-Learn
-- XGBoost
+- Machine Learning
 - Streamlit (for the frontend)
 
 
