@@ -28,7 +28,7 @@ Our customer churn prediction system follows a data-driven approach. The archite
 ## Getting Started
 
 To use this system, follow these steps:
-- run stramlit run app.py
+- run stream_app.py
 - copy paste the command displayed in the terminal after typing "python -m" 
 - click on the localhost:8501 URL
 - interact with the system
